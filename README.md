@@ -4,7 +4,7 @@
       Klippventurer<br>
 </p>
         
-[![](https://dcbadge.vercel.app/api/server/ns2pFdhdMW)](https://discord.gg/ns2pFdhdMW)
+[![](https://badgen.net/discord/members/ns2pFdhdMW)](https://discord.gg/ns2pFdhdMW)
 <h3 align="center"> Klipperize your FlashForge printer!</h4>
     <br>
     
