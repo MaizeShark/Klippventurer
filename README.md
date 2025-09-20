@@ -36,10 +36,11 @@
 For installation instructions, please see [the wiki](https://github.com/synthread/Klippventurer/wiki)
 #### Always calibrate your Z offset and mesh bed leveling after installing Klipper!!!
 
-This repo, supported features, and guides change often, join our Discord or watch the repo for updates.
+This repo, supported features, and guides change often, join our [Discord](https://discord.gg/ns2pFdhdMW) or watch the repo for updates.
 Please open an issue or pull request if you encounter any problems with installation.
 
-## Known Issues
+## Known Issues 
+### Adventurer 3 Models
 - Nation N32G MCU doesn't work with current .config
 - Can't currently support screen, buzzer, USB, filament runout sensor, or camera. This will be solved when the easy installer is released.
 - Adventurer 3 Pro works, but you need to modify printer.cfg to use TMC2208 drivers instead of TMC2209.
