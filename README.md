@@ -3,10 +3,11 @@
   <h1>Klippventurer</h1>
   <h3>Klipperize your FlashForge printer!</h3>
   <a href="https://discord.gg/ns2pFdhdMW">
-    <img src="https://badgen.net/discord/members/ns2pFdhdMW" alt="Discord">
+    <img src="https://dcbadge.limes.pink/api/server/ns2pFdhdMW" alt="Discord Server">
+    
   </a>
 </div>
-    
+
 <p align="center">
   <a href="#compatibility">Compatibility</a> •
   <a href="#installation">Installation</a> •
